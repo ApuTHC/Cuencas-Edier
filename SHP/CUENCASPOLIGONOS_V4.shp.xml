@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="es"><Esri><CreaDate>20231007</CreaDate><CreaTime>15165800</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Conversion Tools.tbx\RasterToPolygon" Date="20230523" Time="083505">RasterToPolygon CUENCASRASTER_V3.tif "C:\Users\carol\OneDrive\Documentos\CUENCAS1\3_SUBCUENCAS V2\2_SHP\CUENCASPOLIGONOS_V3.shp" SIMPLIFY VALUE SINGLE_OUTER_PART #</Process></lineage></DataProperties></Esri></metadata>
